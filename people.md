@@ -245,6 +245,16 @@ Researching methods for end-to-end pretraining of LLMs without pre-tokenization,
 <a href="https://orcid.org/0000-0003-4074-9094" target="_blank" style="font-size:0.85em; color:#A6CE39; text-decoration:none; font-weight:bold; margin-top:5px; display:inline-block;">🆔 ORCID</a>
 </div>
 </div>
+
+<!-- Connyn Kang-Lin Chang -->
+<div class="person-card">
+<div class="person-name">Connyn Kang-Lin Chang</div>
+<span class="person-role">Research Topic: Multimodal LLMs in Finance</span>
+<div class="person-desc">
+<b>Current Position:</b> Vice President, CTBC Bank (中國信託銀行)<br>
+Kang-Lin focuses on applying multimodal LLMs to global financial markets by integrating deep learning, machine learning, and financial time-series data. She explores combining market data, textual disclosures, and macroeconomic signals to enhance trading strategies, risk management, and cross-asset decision-making.
+</div>
+</div>
 </div>
 
 <!-- Alumni Section -->
@@ -252,7 +262,7 @@ Researching methods for end-to-end pretraining of LLMs without pre-tokenization,
 <div class="alumni-box">
 <p style="margin:0;">
 Our alumni have become key contributors in Taiwan’s AI ecosystem, joining R&D teams at 
-<b style="color:#2c3e50;">Google, TSMC, MediaTek, Delta Electronics, Quanta</b>, and 
+<b style="color:#2c3e50;">Google, Qualcomm, TSMC, MediaTek, Delta Electronics, Quanta</b>, and 
 <b style="color:#2c3e50;">Chunghwa Telecom Research Institute</b>. 
 Many are also pursuing further studies abroad at top institutions such as 
 <b style="color:#c0392b;">CMU, Cornell, UIUC, and NYU</b>.
